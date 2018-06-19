@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1099377434726",
+    "firebase_url": "https://stokvel-3ce72.firebaseio.com",
+    "project_id": "stokvel-3ce72",
+    "storage_bucket": "stokvel-3ce72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099377434726:android:f67bed0b5fcca465",
+        "android_client_info": {
+          "package_name": "com.stokvel.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099377434726-6imn2pdttptvqc2om40j6sbb1hut38k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stokvel.app",
+            "certificate_hash": "18e9e17bf53889e8ef67fd00092344e507668d12"
+          }
+        },
+        {
+          "client_id": "1099377434726-gd6lhfplo7om04jvj5j1fgrjqqf215dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfbC15My93ze5xoMpJCIcDQuPUwT3cYw0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099377434726-gd6lhfplo7om04jvj5j1fgrjqqf215dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
