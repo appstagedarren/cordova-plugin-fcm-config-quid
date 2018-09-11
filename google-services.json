@@ -1,39 +1,35 @@
 {
   "project_info": {
-    "project_number": "801550116368",
-    "firebase_url": "https://myinsurapp.firebaseio.com",
-    "project_id": "myinsurapp",
-    "storage_bucket": "myinsurapp.appspot.com"
+    "project_number": "895579405849",
+    "firebase_url": "https://quid-e5edf.firebaseio.com",
+    "project_id": "quid-e5edf",
+    "storage_bucket": "quid-e5edf.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:801550116368:android:d0fccd7bf623cf0b",
+        "mobilesdk_app_id": "1:895579405849:android:aec955fc5d91cfeb",
         "android_client_info": {
-          "package_name": "za.co.insurapp.my"
+          "package_name": "za.co.quid.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "801550116368-v9n38jotgchdppnphfosmfmqrgplt8c0.apps.googleusercontent.com",
+          "client_id": "895579405849-ckrirt929ajc4matlbbrb0bqugarjlei.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "za.co.insurapp.my",
-            "certificate_hash": "706b5e563ff4f76dd0c3fd8fb11690e08f66b548"
+            "package_name": "za.co.quid.app",
+            "certificate_hash": "fd11c8d7d8ca8e05d601e328adc2da6828a971c0"
           }
         },
         {
-          "client_id": "801550116368-f2q864vfhmh3dhc5scl543chmskgh26s.apps.googleusercontent.com",
-          "client_type": 3
-        },
-        {
-          "client_id": "801550116368-f2q864vfhmh3dhc5scl543chmskgh26s.apps.googleusercontent.com",
+          "client_id": "895579405849-5iqrj31m14horkiquvnbo1uga9d5v2t1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAuKpquWm1kvApDXVfOxyK83-da2fahZTM"
+          "current_key": "AIzaSyCBdpzVsUFLPRoeAkAKmaaR7RgYRTYlHfY"
         }
       ],
       "services": {
@@ -44,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "801550116368-f2q864vfhmh3dhc5scl543chmskgh26s.apps.googleusercontent.com",
+              "client_id": "895579405849-5iqrj31m14horkiquvnbo1uga9d5v2t1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
